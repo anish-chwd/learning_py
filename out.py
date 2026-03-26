@@ -17,3 +17,8 @@ def var_output():
 
 var_output()
 print (var)
+
+cmlx = 3+5j #j is added as an imaginary part .. complex cannot be converted to other number types
+
+print(cmlx)
+print (type(cmlx))
