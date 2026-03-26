@@ -10,3 +10,10 @@ if x > y:
     
 elif y > x:
     print ("y is greater than x")
+
+def var_output():
+    global var
+    var = 12
+
+var_output()
+print (var)
