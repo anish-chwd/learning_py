@@ -26,3 +26,9 @@ print (a.lower())
 print (a.strip())
 print (a.replace("H","J"))
 print (a.split(","))
+
+ant = "antonio"
+cont = "and"
+bast = "bastanio"
+final = ant +" "+ cont +" "+bast
+print (final)
