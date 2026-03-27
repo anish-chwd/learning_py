@@ -1,4 +1,4 @@
-a = "hello world"
+a = "Hello, World"
 print(a[2])
 
 for x in "banana":
@@ -21,4 +21,8 @@ print (txt[:20])
 print(txt[10:])
 print (txt[-15:-5])
 
-
+print (a.upper())
+print (a.lower())
+print (a.strip())
+print (a.replace("H","J"))
+print (a.split(","))
