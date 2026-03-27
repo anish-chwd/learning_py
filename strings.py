@@ -32,3 +32,10 @@ cont = "and"
 bast = "bastanio"
 final = ant +" "+ cont +" "+bast
 print (final)
+
+age = 54
+msg = f"age is : {age}"
+print (msg)
+msg2 = f"type double is : {age:.2f}"
+print (msg2)
+print(f"the product of 23 and 56 is {23 * 56}")
