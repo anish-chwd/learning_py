@@ -111,24 +111,6 @@ A structured and disciplined roadmap to mastering Python—from fundamentals to 
 
 ---
 
-## 📂 Project Structure
-To Be structured Later.
-
-```
-learning-python/
-│
-├── core/
-├── intermediate/
-├── oop/
-├── dsa/
-├── libraries/
-├── ml/
-├── databases/
-├── projects/
-└── README.md
-```
----
-
 ## 🚀 Execution Strategy
 
 * Focusing on one phase at a time
