@@ -5,8 +5,10 @@ print (y)
 print(type(x))
 print(type(y))
 
+global var
+
 if x > y:
-    print ("x is greter than y")
+    print ("x is greater than y")
     
 elif y > x:
     print ("y is greater than x")
@@ -18,7 +20,7 @@ def var_output():
 var_output()
 print (var)
 
-cmlx = 3+5j #j is added as an imaginary part .. complex cannot be converted to other number types
+special_str = 3 + 5j #j is added as an imaginary part ... complex cannot be converted to other number types
 
-print(cmlx)
-print (type(cmlx))
+print(special_str)
+print (type(special_str))
