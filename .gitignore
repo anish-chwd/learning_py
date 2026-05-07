@@ -1,7 +1,8 @@
 # Ignore codeRunner temporary runner file
 tempCodeRunnerFile.py
 
-test.py
-try.py
+temporary_files/
 
 .idea/
+
+
