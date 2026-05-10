@@ -5,4 +5,5 @@ temporary_files/
 
 .idea/
 
+__pycache__/
 
