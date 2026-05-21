@@ -120,20 +120,6 @@ A structured and disciplined roadmap to mastering Python—from fundamentals to 
 
 ---
 
-## 📈 Progress Tracker
-
-* [ ] Core Python
-* [ ] Intermediate Python
-* [ ] OOP
-* [ ] DSA
-* [ ] Libraries
-* [ ] Visualization
-* [ ] Machine Learning
-* [ ] Databases
-* [ ] Projects
-
----
-
 ## 📜 License
 
 TBD.
