@@ -47,3 +47,19 @@ print (txt.rstrip())
 print(txt.lstrip())
 print(txt.strip())
 print (txt.strip("g"))
+
+
+
+# remove prefix
+
+url1 = "https://www.youtube.com/"
+url2 = "https://github.com/"
+
+simple_url1 = url1.removeprefix("https://")
+simple_url2 = url2.removeprefix("https://")
+
+simple_url1 = simple_url1.removesuffix("/")
+simple_url2 = simple_url2.removesuffix("/")
+
+print (f"\nurl1:{url1}\tsimplified : {simple_url1}")
+print (f"url1:{url2}\tsimplified : {simple_url2}")
