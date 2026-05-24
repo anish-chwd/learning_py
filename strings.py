@@ -39,3 +39,11 @@ print (msg)
 msg2 = f"type double is : {age:.2f}"
 print (msg2)
 print(f"the product of 23 and 56 is {23 * 56}")
+
+print(txt.title())
+print(txt.capitalize())
+
+print (txt.rstrip())
+print(txt.lstrip())
+print(txt.strip())
+print (txt.strip("g"))
