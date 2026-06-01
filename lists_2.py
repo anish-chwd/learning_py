@@ -21,4 +21,5 @@ print (f"var = {var}")
 
 for place in copy_places:
     if place not in lst.places:
-        print(f"{place} got deleted")  
+        print(f"{place} got deleted") #nothing gets printed as both lists are the same 
+
